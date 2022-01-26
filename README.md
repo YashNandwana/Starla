@@ -1,1 +1,1 @@
-Starla is a that chatbot provides assistance on mental health issues.
+Starla is chatbot which provides assistance on mental health issues.
